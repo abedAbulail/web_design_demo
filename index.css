@@ -1,0 +1,249 @@
+*{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    
+}
+Html{
+
+ scroll-behavior: smooth;
+}
+.topBar{
+    width: 99%;
+    height: 50px;
+    z-index: 100000;
+    top:0;
+    position: fixed;
+    box-shadow: 0px 10px 10px black;
+}
+ .ddddd{
+    
+    float: right;
+    margin-top: 6px;
+    
+    text-align: center;
+    
+
+    
+
+}
+.ddd{
+display: inline;
+
+margin-left:auto;
+margin-right: auto;
+}
+.ddddd a{
+    margin: 10px;
+    font-size: 20px;
+    padding-top: 3px;
+    text-decoration: none;
+    color: white;
+}
+
+.container1{
+    padding-bottom: 100px;
+    width: 100%;
+    background-color: rgb(46, 56, 56);
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.501) 0%, rgba(0, 0, 0, 0.584) 100%), url("pexels-david-egon-2229894.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.card{
+        height: 300px;
+        width: 100%;
+        background-color: rgb(29, 33, 61);
+        box-shadow: 0px 10px 20px #000000;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        border-radius: 25px 0px 25px 0px;
+        
+}
+.card1{
+background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.501) 0%, rgba(0, 0, 0, 0.584) 100%), url("pexels-alex-fu-3289156.jpg");
+    background-size: cover;
+}
+.card2 {
+background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.501) 0%, rgba(0, 0, 0, 0.584) 100%), url("pexels-neale-lasalle-631477.jpg");
+    background-size: cover;
+}
+.card3 {
+background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.501) 0%, rgba(0, 0, 0, 0.584) 100%), url("pexels-eberhard-grossgasteiger-1624496.jpg");
+    background-size: cover;
+}
+.card4 {
+background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.501) 0%, rgba(0, 0, 0, 0.584) 100%), url("pexels-david-skyrius-2129796.jpg");
+    background-size: cover;
+}
+
+
+
+.card5 {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.501) 0%, rgba(0, 0, 0, 0.584) 100%), url("pexels-rodrigo-burgos-s-62275.jpg");
+    background-size: cover;
+}
+
+.card6 {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.501) 0%, rgba(0, 0, 0, 0.584) 100%), url("pexels-tetyana-kovyrina-1600139.jpg");
+    background-size: cover;
+}
+
+.card7 {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.501) 0%, rgba(0, 0, 0, 0.584) 100%), url("pexels-thái-huỳnh-3998365.jpg");
+    background-size: cover;
+}
+
+.card8 {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.501) 0%, rgba(0, 0, 0, 0.584) 100%), url("pexels-jackson-jorvan-605494.jpg");
+    background-size: cover;
+}
+
+
+
+
+
+.card9 {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.501) 0%, rgba(0, 0, 0, 0.584) 100%), url("pexels-kelly-ritta-4581376.jpg");
+    background-size: cover;
+}
+
+.card10 {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.501) 0%, rgba(0, 0, 0, 0.584) 100%), url("pexels-alice-castro-1906932.jpg");
+    background-size: cover;
+}
+
+.card11 {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.501) 0%, rgba(0, 0, 0, 0.584) 100%), url("pexels-ave-calvar-martinez-3497624.jpg");
+    background-size: cover;
+}
+
+.card12 {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.501) 0%, rgba(0, 0, 0, 0.584) 100%), url("pexels-josh-hild-2448749.jpg");
+    background-size: cover;
+}
+.container2 {
+    height: 60px;
+    width: 100%;
+    background-color: rgb(115, 115, 115);
+}
+.containerimg{
+    width: 100%;
+    background-attachment: fixed;
+}
+
+.containerimg1{
+    width: 100%;
+    background-image: url("pexels-min-an-713664.jpg");
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.501) 0%, rgba(0, 0, 0, 0.584) 100%), url("pexels-min-an-713664.jpg");
+    background-size: cover;
+    filter: brightness(70%);
+}
+
+.rowr{
+ width: 100%;
+}
+.stockertext{
+    margin-top: 100px;
+}
+.container2  h1{
+    margin-top: 5px;
+}
+.texter{
+    margin-left: 30px;
+    margin-top: 200px;
+}
+.texter h1{
+    font-size: 30px;
+}
+.signin{
+    width: 50%;
+    height: 60%;
+    margin: auto;  
+    margin-top: 200px;
+border-radius: 40%;
+}
+.full{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(106, 106, 106, 0.421);
+    border-radius: 30%;
+    rotate: -135deg;
+    box-shadow: 0px 0px 15px black;
+}
+.full1{
+        width: 100%;
+        height: 100%;
+        background-color: rgba(106, 106, 106, 0.421);
+        border-radius: 30%;
+        rotate: 90deg;
+        box-shadow: 0px 0px  50px black;
+}
+.full2{
+        width: 100%;
+        height: 100%;
+        background-color: rgba(106, 106, 106, 0.421);
+        border-radius: 30%;
+        rotate: 45deg;
+        box-shadow: 0px 0px 50px black;
+}
+.full h3{
+    text-align: center;
+}
+.full label,input{
+    margin-left: 20%;
+}
+.full label{
+    font-size: 20px;
+    margin-left: 0;
+}
+.full input{
+ background-color: rgb(81, 81, 81);
+ border: 1px solid ;
+ border-radius: 5px;
+ margin-top: 10px;
+ width: 60%;
+}
+.btn1{
+    margin-top: 40px;
+    align-items: center;
+    text-align: center;
+    margin-left: 40%;
+    width: 25%;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 60px;
+    box-shadow: 10px 10px 6px 4px rgba(0, 0, 0, 1) inset;
+        -webkit-box-shadow: 6px 3px 6px 4px rgba(0, 0, 0, 1) inset;
+        -moz-box-shadow: 13px 3px 10px 4px rgba(0, 0, 0, 1) inset;
+    margin-top: 10px;
+}
+.card h1{
+    text-align: center;
+    margin-top: 40px;
+        align-items: center;
+        text-align: center;
+        margin-left: 40%;
+        width: 25%;
+        color:rgb(154, 154, 154);
+}
+.sec{
+    text-align: center;
+}
+.btn2{
+    margin-top: 40px;
+        align-items: center;
+        text-align: center;
+        margin-left: 40%;
+        width: 25%;
+    margin-top: 30px;
+}
+
+
+
+
+
+
